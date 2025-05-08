@@ -76,3 +76,5 @@ public:
         }
         return (*current != NULL);
     }
+
+    
